@@ -6,7 +6,6 @@ This repository contains:
 - A **FastAPI backend** that ingests documents, builds embeddings, stores them in **FAISS**, and answers questions using an LLM.
 - A **React + TypeScript + Tailwind frontend** web UI for uploading documents and chatting with citations.
 
-> Note: Despite the “Offline” name, the backend may require internet depending on which LLM provider you configure (e.g., Gemini / Groq). Embeddings are generated locally via **Ollama**.
 
 ---
 
@@ -127,7 +126,3 @@ curl -X POST "http://localhost:8000/chat" \
 - Vite
 - Tailwind CSS (and shadcn-ui style tooling)
 
-
-## License
-
-No license file is currently included. Add a `LICENSE` if you intend to open-source this project.
