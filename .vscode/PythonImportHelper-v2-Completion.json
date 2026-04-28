@@ -1,0 +1,945 @@
+[
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "faiss",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "faiss",
+        "description": "faiss",
+        "detail": "faiss",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "importPath": "rag.chunker",
+        "description": "rag.chunker",
+        "isExtraImport": true,
+        "detail": "rag.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "importPath": "rag.chunker",
+        "description": "rag.chunker",
+        "isExtraImport": true,
+        "detail": "rag.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "importPath": "rag.embeddings",
+        "description": "rag.embeddings",
+        "isExtraImport": true,
+        "detail": "rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "importPath": "rag.embeddings",
+        "description": "rag.embeddings",
+        "isExtraImport": true,
+        "detail": "rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "importPath": "rag.embeddings",
+        "description": "rag.embeddings",
+        "isExtraImport": true,
+        "detail": "rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "importPath": "rag.embeddings",
+        "description": "rag.embeddings",
+        "isExtraImport": true,
+        "detail": "rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "importPath": "rag.embeddings",
+        "description": "rag.embeddings",
+        "isExtraImport": true,
+        "detail": "rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "add_embeddings",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_index",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "add_embeddings",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_index",
+        "importPath": "rag.faiss_store",
+        "description": "rag.faiss_store",
+        "isExtraImport": true,
+        "detail": "rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "importPath": "rag.ocr",
+        "description": "rag.ocr",
+        "isExtraImport": true,
+        "detail": "rag.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "importPath": "rag.ocr",
+        "description": "rag.ocr",
+        "isExtraImport": true,
+        "detail": "rag.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "PdfReader",
+        "importPath": "pypdf",
+        "description": "pypdf",
+        "isExtraImport": true,
+        "detail": "pypdf",
+        "documentation": {}
+    },
+    {
+        "label": "PdfReader",
+        "importPath": "pypdf",
+        "description": "pypdf",
+        "isExtraImport": true,
+        "detail": "pypdf",
+        "documentation": {}
+    },
+    {
+        "label": "docx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "docx",
+        "description": "docx",
+        "detail": "docx",
+        "documentation": {}
+    },
+    {
+        "label": "pytesseract",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "detail": "pytesseract",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_document",
+        "importPath": "rag.ingest",
+        "description": "rag.ingest",
+        "isExtraImport": true,
+        "detail": "rag.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_document",
+        "importPath": "rag.ingest",
+        "description": "rag.ingest",
+        "isExtraImport": true,
+        "detail": "rag.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "answer_query",
+        "importPath": "rag.ollama_chat",
+        "description": "rag.ollama_chat",
+        "isExtraImport": true,
+        "detail": "rag.ollama_chat",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "answer_query",
+        "importPath": "rag.groq_chat",
+        "description": "rag.groq_chat",
+        "isExtraImport": true,
+        "detail": "rag.groq_chat",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "kind": 2,
+        "importPath": "backend.rag.chunker",
+        "description": "backend.rag.chunker",
+        "peekOfCode": "def chunk_text(text, chunk_size=500, overlap=80):\n    words = text.split()\n    chunks = []\n    start = 0\n    while start < len(words):\n        end = start + chunk_size\n        chunk = \" \".join(words[start:end])\n        chunks.append(chunk)\n        start += chunk_size - overlap\n    return chunks",
+        "detail": "backend.rag.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "kind": 2,
+        "importPath": "backend.rag.embeddings",
+        "description": "backend.rag.embeddings",
+        "peekOfCode": "def embed_text(text):\n    res = requests.post(\n        OLLAMA_URL,\n        json={\"model\": MODEL, \"prompt\": text}\n    )\n    return res.json()[\"embedding\"]\ndef embed_batch(texts):\n    with ThreadPoolExecutor(max_workers=6) as executor:\n        return list(executor.map(embed_text, texts))",
+        "detail": "backend.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "embed_batch",
+        "kind": 2,
+        "importPath": "backend.rag.embeddings",
+        "description": "backend.rag.embeddings",
+        "peekOfCode": "def embed_batch(texts):\n    with ThreadPoolExecutor(max_workers=6) as executor:\n        return list(executor.map(embed_text, texts))",
+        "detail": "backend.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "OLLAMA_URL",
+        "kind": 5,
+        "importPath": "backend.rag.embeddings",
+        "description": "backend.rag.embeddings",
+        "peekOfCode": "OLLAMA_URL = \"http://localhost:11434/api/embeddings\"\nMODEL = \"nomic-embed-text\"\nfrom concurrent.futures import ThreadPoolExecutor\ndef embed_text(text):\n    res = requests.post(\n        OLLAMA_URL,\n        json={\"model\": MODEL, \"prompt\": text}\n    )\n    return res.json()[\"embedding\"]\ndef embed_batch(texts):",
+        "detail": "backend.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL",
+        "kind": 5,
+        "importPath": "backend.rag.embeddings",
+        "description": "backend.rag.embeddings",
+        "peekOfCode": "MODEL = \"nomic-embed-text\"\nfrom concurrent.futures import ThreadPoolExecutor\ndef embed_text(text):\n    res = requests.post(\n        OLLAMA_URL,\n        json={\"model\": MODEL, \"prompt\": text}\n    )\n    return res.json()[\"embedding\"]\ndef embed_batch(texts):\n    with ThreadPoolExecutor(max_workers=6) as executor:",
+        "detail": "backend.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "save_index",
+        "kind": 2,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "def save_index():\n    \"\"\"Save FAISS + docs\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)\n    print(\"✅ FAISS index saved\")\ndef load_index():\n    \"\"\"Load FAISS + docs\"\"\"",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_index",
+        "kind": 2,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "def load_index():\n    \"\"\"Load FAISS + docs\"\"\"\n    global index, documents\n    if os.path.exists(INDEX_FILE):\n        index = faiss.read_index(INDEX_FILE)\n        print(\"✅ FAISS index loaded\")\n    if os.path.exists(DOC_FILE):\n        with open(DOC_FILE, \"rb\") as f:\n            documents = pickle.load(f)\n        print(\"✅ Documents loaded:\", len(documents))",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "add_embeddings",
+        "kind": 2,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "def add_embeddings(vectors, chunks):\n    global index, documents\n    if len(vectors) == 0:\n        return\n    dim = len(vectors[0])\n    if index is None:\n        index = faiss.IndexFlatL2(dim)\n    vectors_np = np.array(vectors).astype(\"float32\")\n    index.add(vectors_np)\n    documents.extend(chunks)",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "def search(query_vector, top_k=5):\n    global index, documents\n    if index is None or len(documents) == 0:\n        return []\n    query_np = np.array([query_vector]).astype(\"float32\")\n    distances, ids = index.search(query_np, top_k)\n    results = []\n    for i, idx in enumerate(ids[0]):\n        if idx == -1:\n            continue",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_FILE",
+        "kind": 5,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "INDEX_FILE = \"data/faiss/index.bin\"\nDOC_FILE = \"data/faiss/docs.pkl\"\nindex = None\ndocuments = []\ndef save_index():\n    \"\"\"Save FAISS + docs\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "DOC_FILE",
+        "kind": 5,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "DOC_FILE = \"data/faiss/docs.pkl\"\nindex = None\ndocuments = []\ndef save_index():\n    \"\"\"Save FAISS + docs\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 5,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "index = None\ndocuments = []\ndef save_index():\n    \"\"\"Save FAISS + docs\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)\n    print(\"✅ FAISS index saved\")",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "backend.rag.faiss_store",
+        "description": "backend.rag.faiss_store",
+        "peekOfCode": "documents = []\ndef save_index():\n    \"\"\"Save FAISS + docs\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)\n    print(\"✅ FAISS index saved\")\ndef load_index():",
+        "detail": "backend.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_DIR",
+        "kind": 5,
+        "importPath": "backend.rag.ingest",
+        "description": "backend.rag.ingest",
+        "peekOfCode": "UPLOAD_DIR = \"data/docs\"\nasync def ingest_document(file):\n    os.makedirs(UPLOAD_DIR, exist_ok=True)\n    file_path = os.path.join(UPLOAD_DIR, file.filename)\n    with open(file_path, \"wb\") as f:\n        f.write(await file.read())\n    text = \"\"\n    # PDF\n    if file.filename.endswith(\".pdf\"):\n        reader = PdfReader(file_path)",
+        "detail": "backend.rag.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "kind": 2,
+        "importPath": "backend.rag.ocr",
+        "description": "backend.rag.ocr",
+        "peekOfCode": "def extract_text_from_image(image_path):\n    img = Image.open(image_path)\n    return pytesseract.image_to_string(img)",
+        "detail": "backend.rag.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "answer_query",
+        "kind": 2,
+        "importPath": "backend.rag.ollama_chat",
+        "description": "backend.rag.ollama_chat",
+        "peekOfCode": "def answer_query(query: str):\n    # 1. Embed query\n    q_embed = embed_text(query)\n    # 2. Retrieve top chunks\n    retrieved = search(q_embed, top_k=5)\n    if not retrieved:\n        return {\n            \"answer\": \"No relevant context found. Please upload documents first.\",\n            \"sources\": []\n        }",
+        "detail": "backend.rag.ollama_chat",
+        "documentation": {}
+    },
+    {
+        "label": "OLLAMA_CHAT_URL",
+        "kind": 5,
+        "importPath": "backend.rag.ollama_chat",
+        "description": "backend.rag.ollama_chat",
+        "peekOfCode": "OLLAMA_CHAT_URL = \"http://localhost:11434/api/chat\"\nMODEL = \"phi3\"\ndef answer_query(query: str):\n    # 1. Embed query\n    q_embed = embed_text(query)\n    # 2. Retrieve top chunks\n    retrieved = search(q_embed, top_k=5)\n    if not retrieved:\n        return {\n            \"answer\": \"No relevant context found. Please upload documents first.\",",
+        "detail": "backend.rag.ollama_chat",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL",
+        "kind": 5,
+        "importPath": "backend.rag.ollama_chat",
+        "description": "backend.rag.ollama_chat",
+        "peekOfCode": "MODEL = \"phi3\"\ndef answer_query(query: str):\n    # 1. Embed query\n    q_embed = embed_text(query)\n    # 2. Retrieve top chunks\n    retrieved = search(q_embed, top_k=5)\n    if not retrieved:\n        return {\n            \"answer\": \"No relevant context found. Please upload documents first.\",\n            \"sources\": []",
+        "detail": "backend.rag.ollama_chat",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI()\nfrom rag.faiss_store import load_index\nload_index()\n# Allow frontend connection\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:8080\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "kind": 2,
+        "importPath": "backend1.rag.chunker",
+        "description": "backend1.rag.chunker",
+        "peekOfCode": "def chunk_text(text, chunk_size=500, overlap=80):\n    \"\"\"Split text into overlapping chunks for better context retrieval\"\"\"\n    words = text.split()\n    chunks = []\n    start = 0\n    while start < len(words):\n        end = start + chunk_size\n        chunk = \" \".join(words[start:end])\n        chunks.append(chunk)\n        start += chunk_size - overlap",
+        "detail": "backend1.rag.chunker",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "kind": 2,
+        "importPath": "backend1.rag.embeddings",
+        "description": "backend1.rag.embeddings",
+        "peekOfCode": "def embed_text(text):\n    \"\"\"Embed a single text using Ollama nomic-embed-text model\"\"\"\n    try:\n        res = requests.post(\n            OLLAMA_URL,\n            json={\"model\": MODEL, \"prompt\": text},\n            timeout=30\n        )\n        res.raise_for_status()\n        return res.json()[\"embedding\"]",
+        "detail": "backend1.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "embed_batch",
+        "kind": 2,
+        "importPath": "backend1.rag.embeddings",
+        "description": "backend1.rag.embeddings",
+        "peekOfCode": "def embed_batch(texts):\n    \"\"\"Embed multiple texts in parallel for better performance\"\"\"\n    with ThreadPoolExecutor(max_workers=6) as executor:\n        return list(executor.map(embed_text, texts))",
+        "detail": "backend1.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "OLLAMA_URL",
+        "kind": 5,
+        "importPath": "backend1.rag.embeddings",
+        "description": "backend1.rag.embeddings",
+        "peekOfCode": "OLLAMA_URL = \"http://localhost:11434/api/embeddings\"\nMODEL = \"nomic-embed-text\"\ndef embed_text(text):\n    \"\"\"Embed a single text using Ollama nomic-embed-text model\"\"\"\n    try:\n        res = requests.post(\n            OLLAMA_URL,\n            json={\"model\": MODEL, \"prompt\": text},\n            timeout=30\n        )",
+        "detail": "backend1.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL",
+        "kind": 5,
+        "importPath": "backend1.rag.embeddings",
+        "description": "backend1.rag.embeddings",
+        "peekOfCode": "MODEL = \"nomic-embed-text\"\ndef embed_text(text):\n    \"\"\"Embed a single text using Ollama nomic-embed-text model\"\"\"\n    try:\n        res = requests.post(\n            OLLAMA_URL,\n            json={\"model\": MODEL, \"prompt\": text},\n            timeout=30\n        )\n        res.raise_for_status()",
+        "detail": "backend1.rag.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "save_index",
+        "kind": 2,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "def save_index():\n    \"\"\"Save FAISS index and documents to disk\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)\n    print(\"✅ FAISS index saved\")\ndef load_index():\n    \"\"\"Load FAISS index and documents from disk\"\"\"",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_index",
+        "kind": 2,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "def load_index():\n    \"\"\"Load FAISS index and documents from disk\"\"\"\n    global index, documents\n    if os.path.exists(INDEX_FILE):\n        index = faiss.read_index(INDEX_FILE)\n        print(\"✅ FAISS index loaded\")\n    if os.path.exists(DOC_FILE):\n        with open(DOC_FILE, \"rb\") as f:\n            documents = pickle.load(f)\n        print(f\"✅ Documents loaded: {len(documents)}\")",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "add_embeddings",
+        "kind": 2,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "def add_embeddings(vectors, chunks):\n    \"\"\"Add embeddings and corresponding text chunks to FAISS index\"\"\"\n    global index, documents\n    if len(vectors) == 0:\n        return\n    dim = len(vectors[0])\n    if index is None:\n        index = faiss.IndexFlatL2(dim)\n    vectors_np = np.array(vectors).astype(\"float32\")\n    index.add(vectors_np)",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "def search(query_vector, top_k=5):\n    \"\"\"Search for similar documents using FAISS\"\"\"\n    global index, documents\n    if index is None or len(documents) == 0:\n        return []\n    query_np = np.array([query_vector]).astype(\"float32\")\n    distances, ids = index.search(query_np, top_k)\n    results = []\n    for i, idx in enumerate(ids[0]):\n        if idx == -1:",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_FILE",
+        "kind": 5,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "INDEX_FILE = \"data/faiss/index.bin\"\nDOC_FILE = \"data/faiss/docs.pkl\"\nindex = None\ndocuments = []\ndef save_index():\n    \"\"\"Save FAISS index and documents to disk\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "DOC_FILE",
+        "kind": 5,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "DOC_FILE = \"data/faiss/docs.pkl\"\nindex = None\ndocuments = []\ndef save_index():\n    \"\"\"Save FAISS index and documents to disk\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 5,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "index = None\ndocuments = []\ndef save_index():\n    \"\"\"Save FAISS index and documents to disk\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)\n    print(\"✅ FAISS index saved\")",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "backend1.rag.faiss_store",
+        "description": "backend1.rag.faiss_store",
+        "peekOfCode": "documents = []\ndef save_index():\n    \"\"\"Save FAISS index and documents to disk\"\"\"\n    os.makedirs(\"data/faiss\", exist_ok=True)\n    if index:\n        faiss.write_index(index, INDEX_FILE)\n    with open(DOC_FILE, \"wb\") as f:\n        pickle.dump(documents, f)\n    print(\"✅ FAISS index saved\")\ndef load_index():",
+        "detail": "backend1.rag.faiss_store",
+        "documentation": {}
+    },
+    {
+        "label": "answer_query",
+        "kind": 2,
+        "importPath": "backend1.rag.gemini_chat",
+        "description": "backend1.rag.gemini_chat",
+        "peekOfCode": "def answer_query(query: str):\n    \"\"\"\n    Answer user query using Gemini API with RAG context\n    1. Embed query using Ollama nomic-embed-text\n    2. Retrieve relevant chunks from FAISS\n    3. Use Gemini to generate answer based on context\n    \"\"\"\n    if not GEMINI_API_KEY:\n        return {\n            \"answer\": \"Error: GEMINI_API_KEY not set. Please configure your API key.\",",
+        "detail": "backend1.rag.gemini_chat",
+        "documentation": {}
+    },
+    {
+        "label": "GEMINI_API_KEY",
+        "kind": 5,
+        "importPath": "backend1.rag.gemini_chat",
+        "description": "backend1.rag.gemini_chat",
+        "peekOfCode": "GEMINI_API_KEY = os.getenv(\"GEMINI_API_KEY\", \"\")\nif GEMINI_API_KEY:\n    genai.configure(api_key=GEMINI_API_KEY)\nMODEL_NAME = \"gemini-2.0-flash\"\ndef answer_query(query: str):\n    \"\"\"\n    Answer user query using Gemini API with RAG context\n    1. Embed query using Ollama nomic-embed-text\n    2. Retrieve relevant chunks from FAISS\n    3. Use Gemini to generate answer based on context",
+        "detail": "backend1.rag.gemini_chat",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_NAME",
+        "kind": 5,
+        "importPath": "backend1.rag.gemini_chat",
+        "description": "backend1.rag.gemini_chat",
+        "peekOfCode": "MODEL_NAME = \"gemini-2.0-flash\"\ndef answer_query(query: str):\n    \"\"\"\n    Answer user query using Gemini API with RAG context\n    1. Embed query using Ollama nomic-embed-text\n    2. Retrieve relevant chunks from FAISS\n    3. Use Gemini to generate answer based on context\n    \"\"\"\n    if not GEMINI_API_KEY:\n        return {",
+        "detail": "backend1.rag.gemini_chat",
+        "documentation": {}
+    },
+    {
+        "label": "get_client",
+        "kind": 2,
+        "importPath": "backend1.rag.groq_chat",
+        "description": "backend1.rag.groq_chat",
+        "peekOfCode": "def get_client():\n    \"\"\"Get OpenAI-compatible client for Groq API\"\"\"\n    if not GROQ_API_KEY:\n        return None\n    return OpenAI(\n        api_key=GROQ_API_KEY,\n        base_url=GROQ_BASE_URL\n    )\ndef answer_query(query: str):\n    \"\"\"",
+        "detail": "backend1.rag.groq_chat",
+        "documentation": {}
+    },
+    {
+        "label": "answer_query",
+        "kind": 2,
+        "importPath": "backend1.rag.groq_chat",
+        "description": "backend1.rag.groq_chat",
+        "peekOfCode": "def answer_query(query: str):\n    \"\"\"\n    Answer user query using Groq API with RAG context\n    1. Embed query using Ollama nomic-embed-text\n    2. Retrieve relevant chunks from FAISS\n    3. Use Groq (Llama 3.3) to generate answer based on context\n    \"\"\"\n    client = get_client()\n    if not client:\n        return {",
+        "detail": "backend1.rag.groq_chat",
+        "documentation": {}
+    },
+    {
+        "label": "GROQ_API_KEY",
+        "kind": 5,
+        "importPath": "backend1.rag.groq_chat",
+        "description": "backend1.rag.groq_chat",
+        "peekOfCode": "GROQ_API_KEY = os.getenv(\"GROQ_API_KEY\")\nGROQ_BASE_URL = \"https://api.groq.com/openai/v1\"\n# Available free models on Groq:\n# - llama-3.3-70b-versatile (recommended)\n# - llama-3.1-8b-instant (fastest)\n# - mixtral-8x7b-32768\n# - deepseek-r1-distill-llama-70b\nMODEL_NAME = \"llama-3.3-70b-versatile\"\ndef get_client():\n    \"\"\"Get OpenAI-compatible client for Groq API\"\"\"",
+        "detail": "backend1.rag.groq_chat",
+        "documentation": {}
+    },
+    {
+        "label": "GROQ_BASE_URL",
+        "kind": 5,
+        "importPath": "backend1.rag.groq_chat",
+        "description": "backend1.rag.groq_chat",
+        "peekOfCode": "GROQ_BASE_URL = \"https://api.groq.com/openai/v1\"\n# Available free models on Groq:\n# - llama-3.3-70b-versatile (recommended)\n# - llama-3.1-8b-instant (fastest)\n# - mixtral-8x7b-32768\n# - deepseek-r1-distill-llama-70b\nMODEL_NAME = \"llama-3.3-70b-versatile\"\ndef get_client():\n    \"\"\"Get OpenAI-compatible client for Groq API\"\"\"\n    if not GROQ_API_KEY:",
+        "detail": "backend1.rag.groq_chat",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_NAME",
+        "kind": 5,
+        "importPath": "backend1.rag.groq_chat",
+        "description": "backend1.rag.groq_chat",
+        "peekOfCode": "MODEL_NAME = \"llama-3.3-70b-versatile\"\ndef get_client():\n    \"\"\"Get OpenAI-compatible client for Groq API\"\"\"\n    if not GROQ_API_KEY:\n        return None\n    return OpenAI(\n        api_key=GROQ_API_KEY,\n        base_url=GROQ_BASE_URL\n    )\ndef answer_query(query: str):",
+        "detail": "backend1.rag.groq_chat",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_DIR",
+        "kind": 5,
+        "importPath": "backend1.rag.ingest",
+        "description": "backend1.rag.ingest",
+        "peekOfCode": "UPLOAD_DIR = \"data/docs\"\nasync def ingest_document(file):\n    \"\"\"\n    Ingest a document: extract text, chunk it, embed with Ollama, store in FAISS\n    Supports: PDF, DOCX, TXT, Images (PNG, JPG, JPEG)\n    \"\"\"\n    os.makedirs(UPLOAD_DIR, exist_ok=True)\n    file_path = os.path.join(UPLOAD_DIR, file.filename)\n    # Save uploaded file\n    with open(file_path, \"wb\") as f:",
+        "detail": "backend1.rag.ingest",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "kind": 2,
+        "importPath": "backend1.rag.ocr",
+        "description": "backend1.rag.ocr",
+        "peekOfCode": "def extract_text_from_image(image_path):\n    \"\"\"Extract text from image using OCR (Tesseract)\"\"\"\n    try:\n        image = Image.open(image_path)\n        text = pytesseract.image_to_string(image)\n        return text\n    except Exception as e:\n        print(f\"Error extracting text from image: {e}\")\n        return \"\"",
+        "detail": "backend1.rag.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend1.main",
+        "description": "backend1.main",
+        "peekOfCode": "app = FastAPI()\nfrom rag.faiss_store import load_index\n# Load FAISS index on startup\nload_index()\n# Allow frontend connection\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:8080\", \"http://localhost:5173\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "backend1.main",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "rag-system-main.node_modules.flatted.python.flatted",
+        "description": "rag-system-main.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "rag-system-main.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "rag-system-main.node_modules.flatted.python.flatted",
+        "description": "rag-system-main.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "rag-system-main.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "rag-system-main.node_modules.flatted.python.flatted",
+        "description": "rag-system-main.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "rag-system-main.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "rag-system-main.node_modules.flatted.python.flatted",
+        "description": "rag-system-main.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "rag-system-main.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "def stringify(value):\n    return _stringify(value, separators=(',', ':'))\nassert stringify([None, None]) == '[[null,null]]'\na = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "a = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['o']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "b = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['one']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['two']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['three']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['a']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['test']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['array']",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "a2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o2",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "o2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "str = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "oo",
+        "kind": 5,
+        "importPath": "rag-system-main.node_modules.flatted.python.test",
+        "description": "rag-system-main.node_modules.flatted.python.test",
+        "peekOfCode": "oo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "rag-system-main.node_modules.flatted.python.test",
+        "documentation": {}
+    }
+]
