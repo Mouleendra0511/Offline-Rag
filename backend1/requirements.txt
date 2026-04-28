@@ -1,0 +1,25 @@
+# Python dependencies for RAG system with Ollama embeddings and Gemini API
+
+# Core web framework
+fastapi==0.115.0
+uvicorn==0.32.0
+python-multipart==0.0.12
+
+# Document processing
+pypdf==5.1.0
+python-docx==1.1.2
+pillow==11.0.0
+pytesseract==0.3.13
+
+# Vector search and embeddings
+faiss-cpu==1.9.0
+numpy==2.2.1
+
+# HTTP requests
+requests==2.32.3
+
+# Kimi API (OpenAI-compatible)
+openai>=1.0
+
+# Environment variables
+python-dotenv==1.0.1
